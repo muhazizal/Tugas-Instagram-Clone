@@ -1,2 +1,3 @@
-# Tugas-Instagram-Clone
-Tugas mata kuliah pemrograman web, membuat clone instagram
+# vietgram
+
+On this repository I'll clone Instagram front end and back end
